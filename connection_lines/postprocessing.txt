@@ -1,0 +1,8 @@
+In GIMP
+1: Add jpg as layer (just drag it)
+2: Layer -> Scale layer... (to half the size)
+3: Reposition to find interesting spot (fb cover is in the down/right region)
+4: Filters -> Blur -> Zoom motion blur... (find x/y, blurring factor 0.022)
+
+Apply twice:
+5: Filters -> Edge-Detect -> Edge... (algorithm: differential, amount to taste)
