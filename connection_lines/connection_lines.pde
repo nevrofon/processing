@@ -10,6 +10,7 @@ void draw() {
   }
   
   noLoop();
+  save("connection_lines.jpg");
 }
 
 void foo(long seed) {
